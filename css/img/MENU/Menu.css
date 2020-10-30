@@ -1,0 +1,63 @@
+h1{
+	display: none;
+}
+h2,h3,h4,h5,h6, p{
+    margin: 0;
+}
+body{
+	margin: auto;
+	width: 100%;
+	background-color: #212121;
+	color: #fff;
+}
+.MENU{
+	width: 100%;
+	height: 1440px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url(About/Petal_1.png);
+	background-size: cover;
+}
+.MENU_inner{
+	width: 70%;
+	height: 75%;
+	background-color: rgba(175, 198, 123, .3);
+}
+.MENU_inner h2{
+	font-family: 'Architects Daughter', cursive;
+	color: #afc67b;
+}
+.MENU_inner p{
+	font-family: 'Montserrat', sans-serif;
+}
+.MENU_inner_heading{
+	width: 100%;
+	height: 20%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.MENU_inner_table{
+	width: 100%;
+	height: 80%;
+	 text-align: center;
+}
+.table_img{
+	width: 359px;
+	height: 284px;
+}
+.MENU_inner_table h2{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 29.17px;
+}
+.MENU_inner_table p{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: 'Lato', sans-serif;
+	font-size: 16.67px;
+}
+
+
+
